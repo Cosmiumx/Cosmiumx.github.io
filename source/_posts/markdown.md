@@ -65,12 +65,12 @@ tags:
 ```
 
 ### 🌰例子6(超链接) : 
-[我的blog](https://cosimac.github.io/ "我的blog")
+[我的blog](https://cosmiumx.github.io/ "我的blog")
 [超链接名](超链接地址 "超链接title")
 title可加可不加
 
 ```
-  [我的blog](https://cosimac.github.io/ "我的blog")
+  [我的blog](https://cosmiumx.github.io/ "我的blog")
 ```
 
 ### 🌰例子7(无序列表) : 
